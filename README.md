@@ -1,4 +1,4 @@
-*Link web Codespaces: [https://fantastic-waffle-jjv9r94j7762q9pv.github.dev/](https://fantastic-waffle-jjv9r94j7762q9pv-8000.app.github.dev/)
+*Link web Codespaces: https://super-duper-journey-pjwr5v4wjrjrcgrw-8000.app.github.dev/
 # Quan ly kho hang
 
 ```
