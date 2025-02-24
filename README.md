@@ -1,4 +1,3 @@
-*Link web Codespaces: https://super-duper-journey-pjwr5v4wjrjrcgrw-8000.app.github.dev/
 
 # Dự án Web App Quản lý kho hàng
 # Tên sinh viên: Nguyễn Quế Bắc (mã sinh viên: 23010574)
