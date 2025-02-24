@@ -16,10 +16,14 @@ Dự án này là một phầm mềm quản lý kho hàng, được xây dựng 
 - Quản lý thông tin của các nhà cung cấp sản phẩm (tên nhà cung cấp, địa chỉ).
 
 ```
+ git clone https://github.com/nobucoldy/quanlykhohang.git
+
  composer install
  npm install
+
  cp .env.example .env
  php artisan key:generate
- php artisan migrate
 
+ php artisan migrate
+ php artisan serve
 ```
