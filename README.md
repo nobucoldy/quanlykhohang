@@ -16,6 +16,7 @@ Dự án này là một phầm mềm quản lý kho hàng, được xây dựng 
 
 ```
  git clone https://github.com/nobucoldy/quanlykhohang.git
+ cd quanlykhohang
 
  composer install
  npm install
