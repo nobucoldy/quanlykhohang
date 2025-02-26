@@ -1,4 +1,4 @@
-
+![sodochucnang](https://github.com/user-attachments/assets/a8f12969-f627-4ca0-a53f-95aa856a1408)
 # Dự án Web App Quản lý kho hàng
 # Tên sinh viên: Nguyễn Quế Bắc (mã sinh viên: 23010574)
 
@@ -27,3 +27,8 @@ Dự án này là một phầm mềm quản lý kho hàng, được xây dựng 
  php artisan migrate
  php artisan serve
 ```
+## Sơ đồ chức năng:
+
+![sodochucnang](https://github.com/user-attachments/assets/9bef9470-c948-4266-aee6-6633354fd88a)
+
+
