@@ -1,4 +1,3 @@
-![sodochucnang](https://github.com/user-attachments/assets/a8f12969-f627-4ca0-a53f-95aa856a1408)
 # Dự án Web App Quản lý kho hàng
 # Tên sinh viên: Nguyễn Quế Bắc (mã sinh viên: 23010574)
 
