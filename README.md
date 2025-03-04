@@ -28,10 +28,7 @@ Dự án này là một phầm mềm quản lý kho hàng, được xây dựng 
 ```
 ## Sơ đồ chức năng:
 
-![sodochucnang](https://github.com/user-attachments/assets/
-
-[baocaothietkewebnangcao.pdf](https://github.com/user-attachments/files/19064944/baocaothietkewebnangcao.pdf)
-9bef9470-c948-4266-aee6-6633354fd88a)
+![sodochucnang](https://github.com/user-attachments/assets/9bef9470-c948-4266-aee6-6633354fd88a)
 
 
 
